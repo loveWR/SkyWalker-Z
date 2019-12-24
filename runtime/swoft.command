@@ -1,0 +1,1 @@
+/usr/bin/php ./bin/swoft http:start -d
