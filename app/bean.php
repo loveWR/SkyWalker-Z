@@ -129,6 +129,7 @@ return [
     ],
     'rpcServer'         => [
         'class' => ServiceServer::class,
+        'port'    => 18307,
     ],
     'wsServer'          => [
         'class'   => WebSocketServer::class,
